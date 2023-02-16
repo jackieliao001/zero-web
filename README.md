@@ -82,6 +82,26 @@
    npm install
    # 运行项目
    npm run dev
+   # 项目打包
+   npm run build
    ```
 
    环境配置，一般是配置项目的后端接口地址。本项目提供了.env.development和.env.production两个配置文件，分别用于配置开发环境和生产环境的接口地址。
+
+#### 鸣谢
+
+
+
+1. maku [[maku-admin](https://gitee.com/makunet/maku-admin)]
+
+
+
+
+
+
+
+#### 特技
+
+
+
+[![Fork me on Gitee](https://gitee.com/jackie_liao/zero-boot/widgets/widget_5.svg)](https://gitee.com/jackie_liao/zero-boot)
